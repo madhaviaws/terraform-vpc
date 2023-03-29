@@ -1,3 +1,3 @@
 bucket = "backend-tfstate-prac"
-key    = "vpc/env/terrafom.tfstate"
+key    = "vpc/dev/terrafom.tfstate"
 region = "us-east-1"
